@@ -1,4 +1,4 @@
 # apnacollege
 This is my first Repository
 <br>
-Author- Suvarchala Gade
+Author- Suvarchala Gade (KMIT)
